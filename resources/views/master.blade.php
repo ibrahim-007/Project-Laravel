@@ -26,6 +26,43 @@
       .custom-login{
           height: 500px;
           padding-top: 100px;
+          
       }
+      img.slider-img {
+         
+         height: 400px !important;
+         width: 100%;
+         border-radius: 30px;
+
+      
+;
+      }
+      .custom-product{
+          height: 600px%;
+      }
+
+      .slider-text{
+          background-color: #00a1ff78;
+      }
+      .trending-image{
+          height: 100px;
+          border-radius: 30px;
+
+      }
+      .trending-item{
+          float:left;
+          width: 14%;
+      }
+      .trending-wrapper{
+          margin:50px;
+      }
+      .detail-img
+      {
+          height:200px;
+      }
+      .search-box{
+          width: 500px !important;
+      }
+      
     </style>
 </html>
